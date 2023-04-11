@@ -1,0 +1,10 @@
+.about {
+}
+.portfolio {
+}
+.contakts {
+}
+::after {
+  content: color red;
+  
+}
